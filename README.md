@@ -1,1 +1,2 @@
-# life-of-devops
+hello friends i am suresh 
+i am bsc students 
